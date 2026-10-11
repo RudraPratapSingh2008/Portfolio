@@ -5,7 +5,7 @@ export const siteIdentity = {
   phone: '+91 63750 33394',
   email: 'rudra.psr8@gmail.com',
   github: 'https://github.com/RudraPratapSingh2008',
-  linkedin: 'https://www.linkedin.com/in/rudrapratapsinghrathore/',
+  linkedin: 'https://www.linkedin.com/in/-rudrapratapsinghrathore',
 };
 
 export const navLinks = [
@@ -91,17 +91,17 @@ export const projects = [
     screenColor: '#1b3e68',
     screenAccent: '#6bcb77',
     imageUrl: '/projects/nest.jpeg',
-    live: '',
-    code: 'https://github.com/RudraPratapSingh2008',
+    live: 'https://nest-prediction.vercel.app/',
+    code: 'https://github.com/RudraPratapSingh2008/NEST-prediction',
   },
   {
-    title: 'Crypto Trade Bot',
-    desc: 'A deep reinforcement learning trading agent pairing a BiLSTM encoder for price-sequence modelling with a PPO policy network.',
-    stack: ['Python', 'BiLSTM', 'PPO', 'Reinforcement Learning'],
-    screenColor: '#2d1b4e',
-    screenAccent: '#ff6b9d',
-    imageUrl: '/projects/crypto-trade-bot.jpeg',
-    live: '',
+    title: 'Autozentic',
+    desc: 'An AI automation agency concept presented at Idea Spark 2.0, where I contributed as the team programmer.',
+    stack: ['AI', 'Automation', 'Product Engineering'],
+    screenColor: '#0a192f',
+    screenAccent: '#48b8d0',
+    imageUrl: '/projects/autozentic.jpeg',
+    live: 'https://autozentic.com/',
     code: 'https://github.com/RudraPratapSingh2008',
   },
   {
@@ -112,17 +112,17 @@ export const projects = [
     screenAccent: '#ffd15c',
     imageUrl: '/projects/freiwilliger.jpeg',
     live: '',
-    code: 'https://github.com/RudraPratapSingh2008',
+    code: 'https://github.com/RudraPratapSingh2008/Freiwilliger-v1',
   },
   {
-    title: 'Autozentic',
-    desc: 'An AI automation agency concept presented at Idea Spark 2.0, where I contributed as the team programmer.',
-    stack: ['AI', 'Automation', 'Product Engineering'],
-    screenColor: '#0a192f',
-    screenAccent: '#48b8d0',
-    imageUrl: '/projects/autozentic.jpeg',
+    title: 'Crypto Trade Bot',
+    desc: 'A deep reinforcement learning trading agent pairing a BiLSTM encoder for price-sequence modelling with a PPO policy network.',
+    stack: ['Python', 'BiLSTM', 'PPO', 'Reinforcement Learning'],
+    screenColor: '#2d1b4e',
+    screenAccent: '#ff6b9d',
+    imageUrl: '/projects/crypto-trade-bot.jpeg',
     live: '',
-    code: 'https://github.com/RudraPratapSingh2008',
+    code: 'https://github.com/RudraPratapSingh2008/Crypto-trade-bot',
   },
   {
     title: 'CO2Watch India',
@@ -132,7 +132,7 @@ export const projects = [
     screenAccent: '#60a5fa',
     imageUrl: '/projects/co2watch-india.jpeg',
     live: '',
-    code: 'https://github.com/RudraPratapSingh2008',
+    code: 'https://github.com/shreyash1234566/gasCV',
   },
 ];
 
@@ -167,7 +167,7 @@ export const contactMeta = {
     'Open to software engineering, full-stack development, machine learning opportunities, and interesting collaborations.',
   links: [
     { label: 'email', value: 'rudra.psr8@gmail.com', href: 'mailto:rudra.psr8@gmail.com' },
-    { label: 'linkedin', value: 'linkedin.com/in/rudrapratapsinghrathore', href: 'https://www.linkedin.com/in/rudrapratapsinghrathore/' },
+    { label: 'linkedin', value: 'linkedin.com/in/-rudrapratapsinghrathore', href: 'https://www.linkedin.com/in/-rudrapratapsinghrathore' },
     { label: 'github', value: 'github.com/RudraPratapSingh2008', href: 'https://github.com/RudraPratapSingh2008' },
     { label: 'phone', value: '+91 63750 33394', href: 'tel:+916375033394' },
   ],
@@ -178,7 +178,7 @@ export const footerMeta = {
   copyright: '© 2026 — Software engineering, full-stack systems, and ML',
   links: [
     { label: 'GitHub', href: 'https://github.com/RudraPratapSingh2008' },
-    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/rudrapratapsinghrathore/' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/-rudrapratapsinghrathore' },
     { label: 'Email', href: 'mailto:rudra.psr8@gmail.com' },
   ],
 };
