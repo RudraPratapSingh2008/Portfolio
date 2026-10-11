@@ -65,81 +65,12 @@ It presents Rudra's work across:
 | Routing and UI | React Router, Radix UI, Lucide React |
 | Tooling | ESLint, Vitest, PostCSS, Vercel |
 
-## Getting started
-
-### Prerequisites
-
-- Node.js 18 or newer
-- npm
-
-### Installation
-
-```bash
-git clone https://github.com/RudraPratapSingh2008/Portfolio.git
-cd Portfolio/seamless-portfolio-experience-main
-npm install
-```
-
-### Development
-
-```bash
-npm run dev
-```
-
-Open the local URL shown by Vite, usually `http://localhost:5173`.
-
-### Production build
-
-```bash
-npm run build
-npm run preview
-```
-
-### Quality checks
-
-```bash
-npm run lint
-npm run test
-```
-
-## Project structure
-
-```text
-seamless-portfolio-experience-main/
-├── public/
-│   ├── projects/       # Portfolio and project imagery
-│   ├── favicon.svg     # Custom RP favicon
-│   └── rudra-resume.pdf
-├── src/
-│   ├── components/
-│   │   ├── portfolio/  # Portfolio sections and 3D experience
-│   │   └── ui/         # Reusable shadcn/ui components
-│   ├── data/
-│   │   └── portfolio.ts # Portfolio content and links
-│   ├── hooks/
-│   └── pages/
-├── index.html
-├── vite.config.ts
-└── vercel.json
-```
-
 ## Personal links
 
 - **Email:** [rudra.psr8@gmail.com](mailto:rudra.psr8@gmail.com)
 - **GitHub:** [RudraPratapSingh2008](https://github.com/RudraPratapSingh2008)
 - **LinkedIn:** [Rudra Pratap Singh Rathore](https://www.linkedin.com/in/-rudrapratapsinghrathore)
 - **Resume:** [`public/rudra-resume.pdf`](./public/rudra-resume.pdf)
-
-## Deployment
-
-The project is ready to deploy on Vercel:
-
-1. Import the GitHub repository into Vercel.
-2. Set the project root to `seamless-portfolio-experience-main` if prompted.
-3. Keep the default Vite build settings.
-4. Deploy.
-
-The included [`vercel.json`](./vercel.json) keeps client-side routes working through the SPA fallback.
 
 ## License
 
